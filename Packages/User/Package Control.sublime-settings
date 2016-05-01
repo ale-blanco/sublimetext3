@@ -1,0 +1,21 @@
+{
+	"bootstrapped": true,
+	"in_process_packages":
+	[
+	],
+	"installed_packages":
+	[
+		"All Autocomplete",
+		"EncodingHelper",
+		"Function Name Display",
+		"Package Control",
+		"PHP Companion",
+		"PHP-Twig",
+		"SideBarEnhancements",
+		"SideBarGit",
+		"SublimeLinter",
+		"SublimeLinter-php",
+		"SublimeLinter-phpcs",
+		"Terminal"
+	]
+}
